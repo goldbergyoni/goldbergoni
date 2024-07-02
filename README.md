@@ -16,10 +16,33 @@ If there's one skill I've honed over the years, it's coding and designing with S
 
 ## Cherry-picked content from my blog
 
+1. Node.js best practices - sentence
+2. JavaScript testing best practices -
+3. Component testing best practices -
+4. About the beautiful and powerful use-case pattern - 
+
+   Want to see more? see below a full-list
+
 ## Hire me
 
+Want to work together? yay 🥳. Here are 3 main services that I provide:
+
+- Coding for you - My bread and butter. I code mostly in JavaScript (Node.js, Rect) and Python, though happy to code in other modern languages like Go and Kotlin
+- Testing enhancements and workshop for your team - I worked with dozens of org worldwide on boosting their testing skills, using various training and my comprehensive workshop. All the details can be found here
+- Architecture planning and consulting - If there's one skill I've honed over the years, it's designing with SIMPLICITY in mind. I've  crafted for some giant organizations highly scalable systems that are relatively super-simple and maintainable
+
 ## Among my customers
-Some text here
+
+![Screen Shot 2024-07-02 at 13 10 30](https://github.com/goldbergyoni/goldbergoni/assets/8571500/79ce56ea-ac02-4107-a540-ba3c993292f2)
+
+
+## Public speaking
+
+Selfie
 
 ## Reach out
 Some text here
+
+## All my blog posts and videos ever
+
+
