@@ -1,5 +1,3 @@
-[I'm building my README these days and shall publish it by July 2nd]
-
 # Yoni Goldberg - Developer, Architect, Consultant
 
 ## About me in 2 paragraphs
@@ -11,17 +9,23 @@ I stumbled into the world of programming by accident, discovering a programming 
 
 If there's one skill I've honed over the years, it's coding and designing with SIMPLICITY in mind. I always strive to find the sweet spot between robustness and simplicity, considering it one of the finest arts of our profession. While I'm curious about many aspects of software, it's Testing that I love a little more. I've had the privilege to work with over 40 organizations worldwide, including some giant companies you probably know, enhancing their testing processes. I'm a big fan of the new testing paradigm—the testing diamond—and believe that tests should blend seamlessly and effortlessly into developers' workflows.
 
+## Some Git stats, cause it probably tells something about me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbergyoni&show_icons=true&theme=react)](https://github.com/goldbergyoni/github-readme-stats)
 
 ## Cherry-picked content from my blog
 
-1. Node.js best practices - sentence
-2. JavaScript testing best practices -
-3. Component testing best practices -
-4. About the beautiful and powerful use-case pattern - 
+- **📘 [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)** - 100+ best practices with code examples for a modern backend, including tips about architecture, security, testing, performance, hardening and more
 
-   Want to see more? see below a full-list
+   _📊 4 million visitors, 96,000 stars_
+
+- **📘 [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) -** 50+ best practices with code examples for testing JavaScript apps, including tips about mocking, clean tests, testing strategy, api tests, UI tests and more
+
+   _📊 2.5 million visitors, 25,000 stars_
+
+**- 📘 [Component testing best practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) -** A minibook about the art of backend component/integration tests. It shows with code examples how to meet both great develoepr experience and also high realism and risk coverage. The text cover all the key aspects of component tests: dealing with APIs, testing with data(base), testing message queues, testing integrations with other services, testing the component SecOps parts
+   
+Want to read more? See below a full list of publications
 
 ## Hire me
 
