@@ -39,7 +39,7 @@ My bread and butter activity. I code primarily in JavaScript (Node.js, Rect) and
 
 ### Testing enhancements and workshop for your team
 
-I worked with dozens of org worldwide on boosting their testing skills, using various training methods including a comprehensive workshop. [See more details here including a short summary video]([url](https://testjavascript.com/elevate-your-org-testing-game))
+I worked with dozens of org worldwide on boosting their testing skills, using various training methods including a comprehensive workshop. [See more details here including a short summary video](https://testjavascript.com/elevate-your-org-testing-game)
 
 ### Architecture planning and consulting
 
